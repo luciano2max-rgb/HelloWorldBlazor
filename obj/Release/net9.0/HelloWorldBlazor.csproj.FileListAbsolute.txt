@@ -79,3 +79,4 @@ C:\Users\Amministratore\HelloWorldBlazor\obj\Release\net9.0\staticwebassets.buil
 C:\Users\Amministratore\HelloWorldBlazor\obj\Release\net9.0\swae.build.ex.cache
 C:\Users\Amministratore\HelloWorldBlazor\obj\Release\net9.0\HelloWorldBlazor.genruntimeconfig.cache
 C:\Users\Amministratore\HelloWorldBlazor\obj\Release\net9.0\ref\HelloWorldBlazor.dll
+C:\Users\Amministratore\HelloWorldBlazor\obj\Release\net9.0\HelloWorldBlazor.sourcelink.json
