@@ -1,0 +1,7 @@
+C:\Users\Amministratore\HelloWorldBlazor\publish\HelloWorldBlazor.exe
+C:\Users\Amministratore\HelloWorldBlazor\publish\appsettings.Development.json
+C:\Users\Amministratore\HelloWorldBlazor\publish\appsettings.json
+C:\Users\Amministratore\HelloWorldBlazor\publish\HelloWorldBlazor.dll
+C:\Users\Amministratore\HelloWorldBlazor\publish\HelloWorldBlazor.runtimeconfig.json
+C:\Users\Amministratore\HelloWorldBlazor\publish\HelloWorldBlazor.pdb
+C:\Users\Amministratore\HelloWorldBlazor\publish\HelloWorldBlazor.deps.json
